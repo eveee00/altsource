@@ -1,0 +1,16 @@
+{
+  "name": "Evy's AltStore source",
+  "subtitle": "A source for all apps that I found or were suggested.",
+  "description": "Hello! This is a source for some apps i found (or got suggested), but that didn't have a source for AltStore yet.",
+  "iconURL": "https://example.com/source_icon.png",
+  "headerURL": "https://example.com/source_header.png",
+  "website": "https://example.com",
+  "patreonURL": "https://patreon.com/mycampaign"
+  "tintColor": "#F54F32",
+  "featuredApps": [
+    "com.example.myapp",
+    "com.example.anotherapp"
+  ],
+  "apps": [],
+  "news": [],
+}
