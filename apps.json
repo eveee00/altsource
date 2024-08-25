@@ -1,16 +1,688 @@
 {
   "name": "Evy's AltStore source",
   "subtitle": "A source for all apps that I found or were suggested.",
-  "description": "Hello! This is a source for some apps i found (or got suggested), but that didn't have a source for AltStore yet.",
-  "iconURL": "https://example.com/source_icon.png",
-  "headerURL": "https://example.com/source_header.png",
-  "website": "https://example.com",
-  "patreonURL": "https://patreon.com/mycampaign"
-  "tintColor": "#F54F32",
+  "description": "Hello! This is a source for some apps I found (or got suggested), but that didn't have a source for AltStore yet.",
+  "iconURL": "",
+  "headerURL": "",
+  "website": "https://veeeeeeee00.github.io/",
+  "patreonURL": "",
+  "tintColor": "",
   "featuredApps": [
-    "com.example.myapp",
-    "com.example.anotherapp"
+    "com.hammerandchisel.discord"
   ],
-  "apps": [],
-  "news": [],
+  "apps": [
+    {
+      "name": "Rosiecord (Cabin font, Flowercord)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Cabin font, Flowercord, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Cabin Font, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Iconsax_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Cabin Font, Plumpy Icons, Flowercord)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Cabin Font, Plumpy Icons)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Plumpy_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Cabin Font)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (GGSans, Flowercord)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (GGSans, Flowercord, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (GGSans, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Iconsax_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (GGSans, Flowercord, Plumpy Icons)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (GGSans, Plumpy Icons)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Plumpy_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (GGSans)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Quicksand Font, Flowercord)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Quicksand Font, Flowercord, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Quicksand Font, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Iconsax_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Quicksand Font, Flowercord, Plumpy Icons)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Quicksand Font, Plumpy Icons)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Plumpy_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Quicksand Font)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Whitney Font, Flowercord)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Whitney Font, Flowercord, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Whitney Font, Iconsax)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Iconsax.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Iconsax_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Whitney Font, Plumpy Icons, Flowercord)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy_Flowercord.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Whitney Font, Plumpy Icons)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Plumpy.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Plumpy_Icons.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+    {
+      "name": "Rosiecord (Whitney Font)",
+      "bundleIdentifier": "com.hammerandchisel.discord",
+      "developerName": "Emnity team, acquitelol, SerStars",
+      "subtitle": "Wrapper for the Emnity Discord client mod",
+      "localizedDescription": "This is a wrapper for the Emnity Discord client mod with more modifications.",
+      "iconURL": "",
+      "tintColor": "",
+      "category": "social",
+      "screenshots": [
+        "https://github.com/acquitelol/rosiecord/raw/master/Mocks/Default.png"
+      ],
+      "versions": [
+        {
+          "version": "244.0",
+          "buildVersion": "60",
+          "date": "2023-03-30",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font.ipa",
+          "size": 74100,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        }
+        
+      ],
+      "appPermissions": {},
+      "patreon": {}
+    },
+  ],
+  "news": []
 }
