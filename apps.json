@@ -36,7 +36,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -64,7 +87,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -92,7 +138,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -120,7 +189,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -148,7 +240,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -176,7 +291,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -204,7 +342,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -232,7 +393,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -260,7 +444,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -288,7 +495,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -316,7 +546,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -344,7 +597,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -372,7 +648,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -400,7 +699,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -428,7 +750,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -456,7 +801,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -484,7 +852,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -512,7 +903,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -540,7 +954,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -568,7 +1005,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -596,7 +1056,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -624,7 +1107,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -652,7 +1158,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     },
     {
@@ -680,7 +1209,30 @@
         }
         
       ],
-      "appPermissions": {},
+      "appPermissions": {
+        "entitlements": [
+                    "com.apple.developer.associated-appclip-app-identifiers",
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.associated-domains",
+                    "com.apple.developer.storekit.request-data",
+                    "com.apple.developer.avfoundation.multitasking-camera-access",
+                    "aps-environment",
+                    "com.apple.developer.usernotifications.communication"
+                ],
+                "privacy": {
+                    "NSBluetoothAlwaysUsageDescription": "To connect to your devices",
+                    "NSBluetoothPeripheralUsageDescription": "To connect to your devices",
+                    "NSCameraUsageDescription": "By allowing access to your camera, you can take pictures and others will be able to see you in voice and video calls.",
+                    "NSContactsUsageDescription": "We can help you find people you know on Discord. Your contacts will be regularly sent to us so you can connect with friends. You can turn this off any time.",
+                    "NSLocalNetworkUsageDescription": "Allow Discord access to your local network to find devices using the same internet connection.",
+                    "NSLocationAlwaysAndWhenInUseUsageDescription": "To enable services that require location",
+                    "NSLocationAlwaysUsageDescription": "To enable services that require location",
+                    "NSLocationWhenInUseUsageDescription": "To enable services that require location",
+                    "NSMicrophoneUsageDescription": "By allowing access to your microphone, you'll be able to talk in calls.",
+                    "NSPhotoLibraryAddUsageDescription": "By allowing access to your library, you'll be able to download photos and videos.",
+                    "NSPhotoLibraryUsageDescription": "By allowing us access to your photos, you will be able to upload images as an avatar, server icon, and more, and you can send photos and videos to your friends and communities."
+                }
+      },
       "patreon": {}
     }
   ],
