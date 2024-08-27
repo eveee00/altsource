@@ -26,10 +26,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Flowercord.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Cabin-Font+Flowercord.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -77,14 +87,25 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Cabin-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
         }
+        
         
       ],
       "appPermissions": {
@@ -128,10 +149,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Iconsax_Icons.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Cabin-Font+Iconsax_Icons.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -179,10 +210,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 118000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Cabin-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 118000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -230,10 +271,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font+Plumpy_Icons.ipa",
+          "size": 118000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Cabin-Font+Plumpy_Icons.ipa",
           "size": 118000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -281,10 +332,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Cabin-Font.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Cabin-Font.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -332,10 +393,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Flowercord.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_GGSans-Font+Flowercord.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -383,10 +454,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_GGSans-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -434,10 +515,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Iconsax_Icons.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_GGSans-Font+Iconsax_Icons.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -485,10 +576,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 118000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_GGSans-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 118000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -536,10 +637,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font+Plumpy_Icons.ipa",
+          "size": 118000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_GGSans-Font+Plumpy_Icons.ipa",
           "size": 118000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -587,10 +698,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_GGSans-Font.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_GGSans-Font.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -638,10 +759,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Flowercord.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Quicksand-Font+Flowercord.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -689,10 +820,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Quicksand-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -740,10 +881,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Iconsax_Icons.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Quicksand-Font+Iconsax_Icons.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -791,10 +942,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 117000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Quicksand-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 117000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -842,10 +1003,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font+Plumpy_Icons.ipa",
+          "size": 117000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Quicksand-Font+Plumpy_Icons.ipa",
           "size": 117000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -893,10 +1064,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Quicksand-Font.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Quicksand-Font.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -944,10 +1125,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Flowercord.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Whitney-Font+Flowercord.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -995,10 +1186,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Whitney-Font+Iconsax_Icons+Flowercord.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -1046,10 +1247,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Iconsax_Icons.ipa",
+          "size": 112000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Whitney-Font+Iconsax_Icons.ipa",
           "size": 112000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -1097,10 +1308,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
+          "size": 117000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Whitney-Font+Plumpy_Icons+Flowercord.ipa",
           "size": 117000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -1148,10 +1369,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font+Plumpy_Icons.ipa",
+          "size": 117000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Whitney-Font+Plumpy_Icons.ipa",
           "size": 117000,
           "minOSVersion": "",
           "maxOSVersion": ""
@@ -1199,10 +1430,20 @@
       "versions": [
         {
           "version": "244.0",
-          "buildVersion": "60",
+          "buildVersion": "62862",
           "date": "2024-08-25",
           "localizedDescription": "New Rosiecord Build",
           "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_244/Rosiecord-244_Whitney-Font.ipa",
+          "size": 111000,
+          "minOSVersion": "",
+          "maxOSVersion": ""
+        },
+        {
+          "version": "245.0",
+          "buildVersion": "63222",
+          "date": "2024-08-26",
+          "localizedDescription": "New Rosiecord Build",
+          "downloadURL": "https://github.com/SerStars/rosiecord/releases/download/rosiecord_245/Rosiecord-245_Whitney-Font.ipa",
           "size": 111000,
           "minOSVersion": "",
           "maxOSVersion": ""
